@@ -1,0 +1,17 @@
+Redirect 301 /status.png /query/statusl4d1new.php
+Redirect 301 /l4d2.png /query/statusl4d2.php
+
+Redirect 301 /mbtl4d2.png /query/mbtl4d2.php
+
+Redirect 301 /status1.png /query/status.php
+Redirect 301 /1015.png /query/local.php
+Redirect 301 /narakka.png /query/narakka.php
+Redirect 301 /status2.png /query/query003.php
+Redirect 301 /zumbi.png /query/zumbi.php
+Redirect 301 /zumbivs.png /query/zumbivs.php
+
+Redirect 301 /mini1.png /query/mini1.php
+Redirect 301 /mini2.png /query/mini2.php
+
+
+Redirect 301 /cs16.png /query/cs16.php

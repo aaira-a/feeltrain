@@ -1,0 +1,65 @@
+body	{
+	background-color: #AAAAAA;
+	}
+
+.title {
+	color: #000000;
+	background-color: #DDDDDD;
+	border-style: solid;  
+        border-color: #000000;
+        padding: 5px;
+	}
+
+.footer {
+        color: #000000;
+        background-color: #DDDDDD;
+        border-style: solid;
+        border-color: #000000;
+        padding: 5px;
+        text-align: center;
+	font-weight: bold;
+	}
+
+.footer a {
+	text-decoration: none;	
+	}
+
+.footer a:hover {
+	text-decoration: underline;
+	}
+
+input.hidden, form.hidden {
+        display: none;
+        border: none;
+	}
+	
+	
+.maintable {
+	border-spacing: 10px;
+	table-layout:fixed;
+	width:1150px;
+	height:550px;
+	}
+
+.custom {
+	border-style: solid;
+	border-color: #000000;
+	padding: 5px;
+	background-color: #DDDDDD;
+	width: 330px;
+	}
+
+.txtarea {
+	border-style: none;
+        padding: 20px;
+	font-weight: bold;
+	}
+
+textarea {
+	background-color: #000000;
+	color: #FFFFFF;
+	font-size: 9pt;
+	}
+.info {
+	font-weight: bold;
+	}
